@@ -96,7 +96,7 @@
 	.quickWrap{display:none;}
 	.imageWrap_m{display:block;position:static;}
 	.imageWrap{display:none;}
-	.visualWrap .contWrap .imageWrap_m .zoomImage{-webkit-animation: visualImage 4s forwards;animation: visualImage 4s forwards;-webkit-transform: scale(1.6);transform: scale(1.6);}
+	.visualWrap .contWrap .imageWrap_m .zoomImage{-webkit-animation: visualImage 4s forwards;animation: visualImage 4s forwards;-webkit-transform: scale(1.6);transform: scale(1.6);opacity:0;}
 	.sec02 {flex-direction:column;padding:40px 12% 40px 12%;}
 	.sec02 .centerImg{margin-left:0px;margin-right:0px;margin-bottom:20px;}
 	.sec02 .centerImg.active:before{height:0px;}
