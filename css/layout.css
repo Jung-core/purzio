@@ -129,7 +129,7 @@
 	.sec04 .bottomImg img{margin-top: -100px;visibility:visible;}
 
 	@keyframes visualImage {	
-		/* 0%{transform:scale(1.4);opacity:0;} */
+		0%{transform:scale(1.4);opacity:1;}
 		100%{transform:scale(1);opacity:1;}
 	}
 	@keyframes menu-bar07-01 {
