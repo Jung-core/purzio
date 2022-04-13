@@ -100,7 +100,7 @@
 	.m-gnb-btn.gnb-open span:before{top:0px;transform:rotate(45deg);}
 	.m-gnb-btn.gnb-open span:after{top:0px;transform:rotate(-45deg)} */
 	.quickWrap{display:none;}
-	.imageWrap_m{display:block;}
+	.imageWrap_m{display:block;position:static;}
 	.imageWrap{display:none;}
 	.visualWrap .contWrap .imageWrap_m .zoomImage{animation: visualImage 1.9s forwards;transform: scale(1.4);}
 	.sec02 {flex-direction:column;padding:40px 12% 40px 12%;}
