@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'NotoKrL';
+    src: url(../../../fonts/NotoSansKR/NotoSansCJKkr-Light.ttf) format('truetype'), url(../../../fonts/NotoSansKR/NotoSansCJKkr-Light.eot);
+}
+
+@font-face {
+    font-family: 'NotoKrR';
+    src: url(../../../fonts/NotoSansKR/NotoSansCJKkr-Regular.ttf) format('truetype'), url(../../../fonts/NotoSansKR/NotoSansCJKkr-Regular.eot);
+}
+
+@font-face {
+    font-family: 'NotoKrM';
+    src: url(../../../fonts/NotoSansKR/NotoSansCJKkr-Medium.ttf) format('truetype'), url(../../../fonts/NotoSansKR/NotoSansCJKkr-Medium.eot);
+}
+
+@font-face {
+    font-family: 'NotoKrB';
+    src: url(../../../fonts/NotoSansKR/NotoSansCJKkr-Bold.ttf) format('truetype'), url(../../../fonts/NotoSansKR/NotoSansCJKkr-Bold.eot);
+}
+
+@font-face {
+    font-family: 'NotoKrT';
+    src: url(../../../fonts/NotoSansKR/NotoSansCJKkr-Thin.ttf) format('opentype'), url(../../../fonts/NotoSansKR/NotoSansCJKkr-Thin.eot);
+}
+
+@font-face {
+    font-family: 'NotoKrD';
+    src: url(../../../fonts/NotoSansKR/NotoSansCJKkr-DemiLite.ttf) format('opentype'), url(../../../fonts/NotoSansKR/NotoSansCJKkr-DemiLite.eot);
+}
+
+@font-face {
+    font-family: 'CorB';
+    src: url(../../../fonts/CormorantGaramond/CormorantGaramond-Bold.ttf) format('opentype'), url(../../../fonts/CormorantGaramond/CormorantGaramond-Bold.eot);
+}
+
+@font-face {
+    font-family: 'CorM';
+    src: url(../../../fonts/CormorantGaramond/CormorantGaramond-Medium.ttf) format('opentype'), url(../../../fonts/CormorantGaramond/CormorantGaramond-Medium.eot);
+}
+
+@font-face {
+    font-family: 'GowunR';
+    src: url(../../../fonts/GowunBatang/GowunBatang-Regular.ttf) format('opentype'), url(../../../fonts/GowunBatang/GowunBatang-Regular.eot);
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url(../../../fonts/Gotham/GothamBook.ttf) format('truetype'), url(../../../fonts/Gotham/GothamBook.eot);
+}
+
+@font-face {
+    font-family: 'NanumMB';
+    src: url(../../../fonts/NanumMyeongjo/NanumMyeongjoBold.ttf) format('truetype'), url(../../../fonts/NanumMyeongjo/NanumMyeongjoBold.eot);
+}
+
+@font-face {
+    font-family: 'NanumMR';
+    src: url(../../../fonts/NanumMyeongjo/NanumMyeongjo.ttf) format('truetype'), url(../../../fonts/NanumMyeongjo/NanumMyeongjo.eot);
+}
+
+@font-face {
+    font-family: 'MontR';
+    src: url(../../../fonts/Montserrat/Montserrat-Regular.ttf) format('truetype'), url(../../../fonts/Montserrat/Montserrat-Regular.eot);
+}
+
+@font-face {
+    font-family: 'MontSB';
+    src: url(../../../fonts/Montserrat/Montserrat-SemiBold.ttf) format('truetype'), url(../../../fonts/Montserrat/Montserrat-SemiBold.eot);
+}
+
+@font-face {
+    font-family: 'MontBL';
+    src: url(../../../fonts/Montserrat/Montserrat-Black.ttf) format('truetype'), url(../../../fonts/Montserrat/Montserrat-Black.eot);
+}
