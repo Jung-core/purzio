@@ -8,9 +8,10 @@ $(function(){
 		AOS.init({
 				duration: 800
 		});
+
 		setTimeout(function(){
 				$('.header, .quickWrap').removeClass('hidden');
-				// $('.visualWrap .contWrap .imageWrap .zoomImage').fadeIn(500);
+				$('.visualWrap .contWrap .imageWrap_m .zoomImage').fadeIn(500);
 				$.fn.fullpage.setMouseWheelScrolling(true);
 		}, 2500);
 		
@@ -86,7 +87,7 @@ $(function(){
 	}
 
 	// mobile menu-open
-	
+
   $('.m-gnb-btn').on('click',function(){
     if($(this).hasClass('gnb-open')){
       $('body').removeClass('layer-open');
